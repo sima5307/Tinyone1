@@ -1,0 +1,62 @@
+psd to html/psd to bootstrap
+psd to html responsivve with bootstrap
+
+html,css,bootstrap,js/jq
+
+font=======
+'PT Sans', sans-serif;
+
+
+color=======
+black-#010101
+Ash-#898989
+yellow-#fcdb00
+
+
+==========
+xxl  1440  -1600   -1800   -2100
+xl   1200
+lg   1024
+
+
+md   768
+
+
+sm   576
+col  320
+
+
+
+header-----------
+
+      xxl/xl/lg       md       sm/col
+menu      22          22
+
+
+slider------------
+                   xxl/xl/lg       md       sm/col
+
+h1                   32px         32px       25px
+h2                   20px         20px       18px
+p                    16px         16px       16px
+icon                 42px         42px       35px
+padding-bottom       100px        100px      60px
+
+padding-----------    
+
+xxl/xl/lg 100-120px      md  80px     sm/col 50-70 px
+
+feature------------
+                   xxl/xl/lg       md       sm/col
+
+padding top          100px        80px       50px
+padding bottom       120px        100px      70px
+h1                   32px         32px       25px
+h2                   20px         20px       17px
+
+2nd row...
+margin top            70px         50px       30px
+
+header tb 20 20
+
+
